@@ -58,7 +58,7 @@ superior y N_generados los eventos producidos en la simulación.
 Aquí puedes insertar la gráfica final:
 
 ```markdown
-![Gráfica final](resultados/grafica_final.png)
+![Gráfica final](resultados/grafica_final_estricto.png)
 ```
 
 
