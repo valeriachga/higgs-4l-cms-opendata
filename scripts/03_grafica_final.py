@@ -1,7 +1,4 @@
 """
-03_grafica_final.py
-===================
-
 QUÉ HACE ESTE SCRIPT
 --------------------
 Aplica TODOS los cortes de selección del canal H -> ZZ -> 4 leptones de una sola
@@ -50,7 +47,7 @@ CARPETA_DATOS = os.path.join(RAIZ, "data")
 SALIDA = os.path.join(RAIZ, "resultados")
 
 MZ = 91.1876          # masa del bosón Z en GeV (PDG)
-CHUNKSIZE = 200_000   # filas por bloque; baja a 100_000 si falta memoria
+CHUNKSIZE = 200_000   # filas por bloque
 
 DATOS_REALES = [
     os.path.join(CARPETA_DATOS, "Run2012B_DoubleElectron_Data_Aplanada.csv"),
