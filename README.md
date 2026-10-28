@@ -1,8 +1,7 @@
 # Análisis H → ZZ → 4ℓ con CMS Open Data
 
 Análisis educativo del canal Higgs → ZZ → 4 leptones (electrones y muones) con
-datos abiertos de CMS de 2012 (√s = 8 TeV, 11.58 fb⁻¹). La selección de eventos
-sigue la del artículo de CMS [arXiv:1207.7235](https://arxiv.org/abs/1207.7235).
+datos abiertos de CMS de 2012:[Analysis of Higgs boson decays to four leptons using data and simulation of events at the CMS detector from 2012 using ROOT's RDataFrame](https://opendata.cern.ch/record/12360) . La selección de eventos sigue la del artículo de CMS [Observation of a new boson at a mass of 125 GeV with the CMS experiment at the LHC](https://arxiv.org/abs/1207.7235).
 
 ## Contenido
 
@@ -16,8 +15,8 @@ sigue la del artículo de CMS [arXiv:1207.7235](https://arxiv.org/abs/1207.7235)
 └── README.md
 ```
 
-## Datos
-Los CSV pesan demasiado para GitHub. Descárgalos desde el enlace indicado en
+## Datos CSV
+Descárgalos desde el enlace indicado en
 [`data/README.md`](data/README.md) y colócalos en la carpeta `data/`.
 
 ## Cómo reproducir los resultados
@@ -62,8 +61,4 @@ Aquí puedes insertar la gráfica final:
 ![Gráfica final](resultados/grafica_final.png)
 ```
 
-## Licencia y créditos
-- Código: licencia MIT.
-- Datos: CMS Open Data, CC0.
-- Datos y simulaciones cortesía de la colaboración CMS, a través del portal
-  CERN Open Data (opendata.cern.ch).
+
