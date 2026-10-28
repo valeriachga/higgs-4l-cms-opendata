@@ -13,8 +13,6 @@ Después de cada filtro registra:
   * la masa invariante de los 4 leptones, m4l, de los eventos que sobreviven
     (para dibujar un histograma por cada filtro).
 
-Los cortes siguen la selección del análisis publicado por CMS (arXiv:1207.7235).
-
 QUÉ NECESITA (ver data/README.md)
 ---------------------------------
 Archivos CSV de 4 leptones, con una fila por evento y las columnas
