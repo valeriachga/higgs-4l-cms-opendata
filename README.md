@@ -17,7 +17,7 @@ datos abiertos de CMS de 2012:[Analysis of Higgs boson decays to four leptons us
 
 ## Datos CSV
 Descárgalos desde el enlace indicado en
-[`data/README.md`]([data/README.md](https://drive.google.com/drive/folders/1EeJIrFuOe8qOKbwBo9QCEP9_YRfOAyIt?usp=drive_link) y colócalos en la carpeta `data/`.
+[CSV](https://drive.google.com/drive/folders/1EeJIrFuOe8qOKbwBo9QCEP9_YRfOAyIt?usp=drive_link) y colócalos en la carpeta `data/`.
 
 ## Cómo reproducir los resultados
 1. Instala Python 3.10 o superior y las dependencias:
@@ -55,7 +55,7 @@ L = 11 580 pb⁻¹, σ es la sección eficaz, k el factor de corrección a orden
 superior y N_generados los eventos producidos en la simulación.
 
 ## Resultados
-Aquí puedes insertar la gráfica final:
+Se espera el siguiente resultado:
 
 ![Gráfica final](resultados/grafica_final_estricto.png)
 
